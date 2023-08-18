@@ -1,2 +1,6 @@
-[{"id":100000000100,"title":"Pollo a la brasa 1/4","price":27,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"","rating":{"rate":4,"count":10}},
-{"id":100000002000,"title":"Chaufa","price":25,"description":"Arroz chaufa + wantan","category":"Chinese food","image":"","rating":{"rate":3,"count":7}}]
+[ {"id":100000000100,"title":"Pollo a la brasa 1/4 La Leña","price":27,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"","rating":{"rate":4,"count":10}},
+  {"id":100000000300,"title":"Chaufa","price":25,"description":"Arroz chaufa + wantan","category":"Chinese food","image":"","rating":{"rate":3,"count":7}},
+  {"id":100000000200,"title":"Pollo a la brasa 1/4 Meson","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast food","image":"","rating":{"rate":3,"count":7}},
+  {"id":100000000400,"title":"Sushi","price":35,"description":"Sushi dragon","category":"Japanese food","image":"","rating":{"rate":3,"count":7}},
+  {"id":100000000500,"title":"Anticuho porsion pequeña","price":35,"description":"Anticucho","category":"Peruvian food","image":"","rating":{"rate":3,"count":7}},
+]
