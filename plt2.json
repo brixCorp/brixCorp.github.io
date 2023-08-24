@@ -1,4 +1,4 @@
-[ {"title":"Pollo a la Brasa","description":"Disfruta las mejores recetas de los pollos a la brasa","category":"Fast Food","image":"https://brixcorp.github.io/sshi.jpg","rating":{"rate":4,"count":10}},
+[ {"title":"Pollo a la Brasa","description":"Disfruta las mejores recetas de los pollos a la brasa","category":"Fast Food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":4,"count":10}},
   {"title":"Sushi","description":"Comida Japonse en HYO","category":"Japanese Food","image":"https://brixcorp.github.io/sshi.jpg"},
   {"title":"Pizza","description":"Las mejores pizzas a tu mesa","category":"Fast Food","image":"https://brixcorp.github.io/pzz.jpg"},
   {"title":"Chaufa","description":"Disfruta de la experiencia de la comida fusion","category":"Chinese Food","image":"https://brixcorp.github.io/cha.jpg"},
