@@ -1,0 +1,32 @@
+[ {"id":300000000100,"title":"Pizza","price":27,"description":"Porcion 1/4 pollo + papas NATIVAS+ ensalada","category":"Fast Food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":4,"count":10}},
+  
+
+  {"id":300000000200,"title":"Pizza","price":25,"description":"1 pollo entero + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":3,"count":7}},
+  
+  {"id":300000000101,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  
+  {"id":300000000201,"title":"Pizza","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":3,"count":7}},
+  
+  
+  {"id":300000000300,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  
+  {"id":300000000103,"title":"Pizza","price":35,"description":"1 pollo entero + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
+  
+  
+  
+  {"id":300000000202,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  
+  
+  {"id":300000000104,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  
+  
+  {"id":300000000500,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  
+  {"id":300000000400,"title":"Pizza","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  
+ 
+  {"id":300000000600,"title":"Pizza","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
+]
