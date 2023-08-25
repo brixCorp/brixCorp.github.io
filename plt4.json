@@ -12,5 +12,18 @@
 
   {"id":110000000106,"title":"Chifa ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
 
+  {"id":110000000108,"title":"Hamburguesas ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":110000000109,"title":"Chifa ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":110000000110,"title":"Hamburguesas ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":110000000111,"title":"Chifa ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  
+  {"id":110000000112,"title":"Hamburguesas ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":110000000113,"title":"Chifa ABC","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+
+  
   {"id":110000000107,"title":"Chifa Abc","description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
 ]
