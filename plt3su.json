@@ -13,7 +13,7 @@
   {"id":200000000300,"title":"Sushi dragon","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
 
   
-  {"id":200000000103,"title":"Sushi dragon""price":35,"description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
+  {"id":200000000103,"title":"Sushi dragon","price":35,"description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
   
   
   
