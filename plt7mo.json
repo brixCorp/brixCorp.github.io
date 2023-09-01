@@ -1,4 +1,4 @@
 [ {"id":100000000300,"company":"El Viejo Madero","title":"Pollo Broaster 1/4","price":20,"description":"Porcion 1/4 pollo + papas fritas + ensalada","category":"Peruvian Food","image":"https://brixcorp.github.io/mdcp.jpg","rating":{"rate":4,"count":10}},
   {"id":100000000301,"company":"El Viejo Madero","title":"Pollo Broaster Entero","price":76,"description":"Porcion de pollo Entero + papas fritas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/mdpe.jpg","rating":{"rate":4,"count":7}},
-  {"id":100000000302,"company":"El Viejo Madero","title":"Porcion de papas Fritas","price":9,"description":"Porcion de papas fritas","category":"Peruvian food","image":"https://brixcorp.github.io/img/mdpf.jpg","rating":{"rate":4,"count":7}}
+  {"id":100000000302,"company":"El Viejo Madero","title":"Porcion de papas Fritas","price":9,"description":"Porcion de papas fritas","category":"Peruvian food","image":"https://brixcorp.github.io/mdpf.jpg","rating":{"rate":4,"count":7}}
 ]
