@@ -2,30 +2,18 @@
   
   {"id":300000000200,"title":"Pizza","company":"Toto's Pizza","price":25,"description":"Prolongacio San Carlos 123","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
   
-  {"id":300000000101,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000101,"title":"Pizza","company":"Pizzeria Casa Blanca","price":35,"description":"Jirón Guido HYO","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
 
   
-  {"id":300000000201,"title":"Pizza","company":"","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000201,"title":"Pizza","company":"Pizzería Salome a la leña","price":25,"description":"Jirón Nemesio Raez 300","category":"Fast Food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":3,"count":7}},
   
   
-  {"id":300000000300,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000300,"title":"Pizza","company":"Pizzas Casa Blanca","price":35,"description":"Jiron Grau 429","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
 
   
-  {"id":300000000103,"title":"Pizza","company":"","price":35,"description":"1 pollo entero + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000103,"title":"Pizza","company":"Don Pietro Pizzería","price":35,"description":"Av. Gamarra 195","category":"Fast Food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}}
   
   
   
-  {"id":300000000202,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
   
-  
-  {"id":300000000104,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  {"id":300000000500,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-
-  
-  {"id":300000000400,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-  
- 
-  {"id":300000000600,"title":"Pizza","company":"","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
 ]
