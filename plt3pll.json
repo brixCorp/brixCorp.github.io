@@ -1,30 +1,24 @@
-[ {"id":100000000100,"title":"Pollo a la brasa 1/4 La Leña","price":27,"description":"Porcion 1/4 pollo + papas NATIVAS+ ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":4,"count":10}},
+[ {"id":100000000100,"title":"Pollo","abbr":"meson","price":27,"company":"El Meson","description":"Porcion 1/4 pollo + papas NATIVAS+ ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":4,"count":10}},
   
 
 
-  {"id":100000000101,"title":"Pollo a la brasa entero La Leña","price":25,"description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000101,"title":"Pollo","abbr":"leña","price":25,"company":"La Leña","description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":3,"count":7}},
   
   
   
-  {"id":100000000200,"title":"Pollo a la brasa 1/4 Meson","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000200,"title":"Pollo","abbr":"madero","price":25,"company":"El Viejo Madero","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/poll.jpg","rating":{"rate":3,"count":7}},
   
   
   
-  {"id":100000000200,"title":"Pollo a la brasa entero Meson","price":35,"description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000200,"title":"Pollo","abbr":"meson","price":35,"company":"El Meson","description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
   
   
   
-  {"id":100000000300,"title":"Viejo Madero","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000300,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
   
   
-  {"id":100000000400,"title":"Chicken Road","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000400,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
   
   
-  {"id":100000000500,"title":"ADD1","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  {"id":100000000600,"title":"ADD2","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-
-  
-  {"id":100000000700,"title":"ADD3","price":25,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
+  {"id":100000000700,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
 ]
