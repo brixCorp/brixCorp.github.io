@@ -17,7 +17,7 @@
 
 {"id":100000000207,"company":"El Meson","title":"Pollo a la Parrilla","price":24,"description":"Filete de pechuga de pollo","category":"Peruvian Food","image":"https://brixcorp.github.io/mesfp.jpg","rating":{"rate":3,"count":7}},
 
-{"id":100000000208,"company":"El Meson","title":"Bisteck a la Parrilla ","price":25,"description":"Filete de Cabeza de lom","category":"Peruvian Food","image":"https://brixcorp.github.io/bistc.jpg","rating":{"rate":3,"count":7}},
+{"id":100000000208,"company":"El Meson","title":"Bisteck a la Parrilla ","price":25,"description":"Filete de Cabeza de lomo","category":"Peruvian Food","image":"https://brixcorp.github.io/bistc.jpg","rating":{"rate":3,"count":7}},
 
 {"id":100000000209,"company":"El Meson","title":"Mixto a la Parrilla","price":25,"description":"Filete de pechuga de pollo y bisteck a la parrilla","category":"Peruvian Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
 
