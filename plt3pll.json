@@ -6,20 +6,6 @@
   
   
   
-  {"id":100000000200,"title":"Pollo","abbr":"madero","price":25,"company":"El Viejo Madero","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/vjm.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  
-  {"id":100000000200,"title":"Pollo","abbr":"meson","price":35,"company":"El Meson","description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/sus2.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  
-  {"id":100000000300,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  {"id":100000000400,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
-  
-  
-  {"id":100000000700,"title":"Pollo","abbr":"meson","price":30,"company":"El Meson","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/img/lomo.jpg","rating":{"rate":4,"count":7}}
+  {"id":100000000200,"title":"Pollo","abbr":"madero","price":25,"company":"El Viejo Madero","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/vjm.jpg","rating":{"rate":3,"count":7}}
 ]
 
