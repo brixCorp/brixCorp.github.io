@@ -1,6 +1,6 @@
 [ {"id":300000000100,"title":"Pizza","company":"La Artesana Pizzas & Pastas","price":27,"description":"J. Coronel Santivañez 959","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":4,"count":10}},
   
-  {"id":300000000200,"title":"Pizza","company":"","price":25,"description":"1 pollo entero + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000200,"title":"Pizza","company":"Toto's Pizza","price":25,"description":"Prolongacio San Carlos 123","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
   
   {"id":300000000101,"title":"Pizza","company":"","price":35,"description":"Porcion 1/4 pollo + papas + ensalada","category":"Fast Food","image":"https://brixcorp.github.io/an.jpg","rating":{"rate":3,"count":7}},
 
