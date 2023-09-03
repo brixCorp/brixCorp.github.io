@@ -25,7 +25,7 @@
 
 {"id":100000000211,"company":"El Meson","title":"Pollo a la Pizzarolla","price":25,"description":"Filete de pechuga de pollo con mozzarella, queso","category":"Peruvian Food","image":"https://brixcorp.github.io/mespzz.jpg","rating":{"rate":3,"count":7}},
 
-{"id":100000000212,"company":"El Meson","title":"Pollo en Salsa Blanca","price":25,"description":"Filete de pechuga de pollo con salsa blanca","category":"Peruvian Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":100000000212,"company":"El Meson","title":"Pollo en Salsa Blanca","price":25,"description":"Fl. pechuga de pollo con S. blanca","category":"Peruvian Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
 
 {"id":100000000213,"company":"El Meson","title":"Lomo Saltado","price":30,"description":"Lomo Saltado + papas fritas + arroz","category":"Peruvian Food","image":"https://brixcorp.github.io/meslo.jpg","rating":{"rate":3,"count":7}},
 
