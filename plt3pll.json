@@ -1,11 +1,11 @@
-[ {"id":100000000100,"title":"Pollo","abbr":"meson","price":27,"company":"El Meson","description":"Porcion 1/4 pollo + papas NATIVAS+ ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":4,"count":10}},
+[ {"id":100000000100,"title":"Pollo","abbr":"meson","price":27,"company":"El Meson","description":"Ca. Real 917","category":"Peruvian food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":4,"count":10}},
   
 
 
-  {"id":100000000101,"title":"Pollo","abbr":"lea","price":25,"company":"La Leña","description":"1 pollo entero + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+  {"id":100000000101,"title":"Pollo","abbr":"lea","price":25,"company":"La Leña","description":"P La Breña","category":"Peruvian food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
   
   
   
-  {"id":100000000200,"title":"Pollo","abbr":"madero","price":25,"company":"El Viejo Madero","description":"Porcion 1/4 pollo + papas + ensalada","category":"Peruvian food","image":"https://brixcorp.github.io/vjm.jpg","rating":{"rate":3,"count":7}}
+  {"id":100000000200,"title":"Pollo","abbr":"madero","price":25,"company":"El Viejo Madero","description":"P La Breña","category":"Peruvian food","image":"https://brixcorp.github.io/vjm.jpg","rating":{"rate":3,"count":7}}
+  
 ]
-
