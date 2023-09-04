@@ -1,0 +1,18 @@
+[ 
+
+{"id":200000000200,"company":"La Leña","title":"1/4 Pollo a la Brasa","price":18.50,"description":"Pollo a la brasa+ papas fritas ","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":4,"count":10}},
+  
+{"id":200000000201,"company":"La Leña","title":"Porcion de Papas Fritas","price":11,"description":"Papas de la region fritas","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+
+{"id":200000000202,"company":"La Leña","title":"Ensalada","price":11,"description":"Ensalada","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+
+{"id":200000000203,"company":"La Leña","title":"Nuggets De Pollo","price":14,"description":"Jusosos Nueggets de Pollo acompañado con crocantes papas fritas","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+
+{"id":200000000204,"company":"La Leña","title":"Porcion De Chorizos","price":22,"description":"Jugosos chorizos a las finas hierbas o chorizos tradicionales","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+
+{"id":200000000205,"company":"La Leña","title":"Anticucho Acompañamiento","price":10.90,"description":"Palito de Anticucho","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}},
+
+{"id":200000000206,"company":"La Leña","title":"Chorizo Acompañamiento","price":10.90,"description":"Palito de Chorizo","category":"Peruvian Food","image":"https://brixcorp.github.io/len.jpg","rating":{"rate":3,"count":7}}
+
+]
+
