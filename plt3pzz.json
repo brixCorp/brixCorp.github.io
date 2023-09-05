@@ -2,7 +2,7 @@
   
   {"id":300000000200,"title":"Pizza","abbr":"toto","company":"Toto's Pizza","price":25,"description":"Prolongacio San Carlos 123","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
   
-  {"id":300000000300,"title":"Pizza","abbr":"donpietro","company":"Don Pietro Pizzería","price":35,"description":"Av. Gamarra 195","category":"Fast Food","image":"https://brixcorp.github.io/dnt.jpg","rating":{"rate":3,"count":7}},
+  {"id":300000000300,"title":"Pizza","abbr":"donpietro","company":"Don Pietro Pizzería","price":35,"description":"Av. Gamarra 195","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
   
   {"id":300000000400,"title":"Pizza","abbr":"pcasablanca","company":"Pizzeria Casa Blanca","price":35,"description":"Jirón Guido HYO","category":"Fast Food","image":"https://brixcorp.github.io/pzzlg.jpg","rating":{"rate":3,"count":7}}
