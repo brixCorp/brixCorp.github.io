@@ -1,0 +1,68 @@
+[ 
+
+
+
+{"id":300000000100,"company":"Artesana","title":"Pizza Americana Pequeña","price":22,"description":"Jamon + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000101,"company":"Artesana","title":"Pizza Americana Mediana","price":32,"description":"Jamon + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000102,"company":"Artesana","title":"Pizza Americana Grande","price":42,"description":"Jamon + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000103,"company":"Artesana","title":"Pizza Peperoni Pequeña","price":22,"description":"Pepperoni + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000104,"company":"Artesana","title":"Pizza Peperoni Mediana","price":32,"description":"Pepperoni + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000105,"company":"Artesana","title":"Pizza Peperoni Grande","price":42,"description":"Pepperoni + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000106,"company":"Artesana","title":"Pizza Full Meal Pequeña","price":24,"description":"Cebolla+pimiento+carne+jamon+tocino","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000107,"company":"Artesana","title":"Pizza Full Meal Mediana","price":34,"description":"Cebolla+pimiento+carne+jamon+tocino","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000108,"company":"Artesana","title":"Pizza Full Meal Grande","price":44,"description":"Cebolla+pimiento+carne+jamon+tocino","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000109,"company":"Artesana","title":"Pizza Tocino Pequeña","price":23,"description":"Tocino+jamon+pimiento+cebolla","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000110,"company":"Artesana","title":"Pizza Tocino Mediana","price":33,"description":"Tocino+jamon+pimiento+cebolla","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000111,"company":"Artesana","title":"Pizza Tocino Grande","price":43,"description":"Tocino+jamon+pimiento+cebolla","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000112,"company":"Artesana","title":"Pizza Vegetariana Mediana","price":22,"description":"Cebolla+ aceitunas+pimiento+champignones","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000113,"company":"Artesana","title":"Pizza Vegetariana Mediana","price":32,"description":"Cebolla+ aceitunas+pimiento+champignones","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000114,"company":"Artesana","title":"Pizza Vegetariana Familiar","price":42,"description":"Cebolla+ aceitunas+pimiento+champignones","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+
+{"id":300000000115,"company":"Artesana","title":"Lasagna a la Bolognesa","price":20,"description":"salsa de carne+salsa de la casa con bechamel","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000116,"company":"Artesana","title":"Raviole en salsa Huancaina con Lomo Saltado","price":30,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000117,"company":"Artesana","title":"Calzone especial de Lomo Saltado","price":35,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+
+{"id":300000000118,"company":"Artesana","title":"Salchipapas Clasica","price":15,"description":"Papa nativa fritas + Cremas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000119,"company":"Artesana","title":"Salchipapas a la Artesana","price":18,"description":"2 clases de salchichas + huevo revuelto+ papas nativas fritas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000120,"company":"Artesana","title":"Salchipapas Selvatica","price":20,"description":"Cecina + Papas nativas fritas + Cremas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+
+{"id":300000000121,"company":"Artesana","title":"Hamburguesa Clasica","price":15,"description":"Papas nativas fritas + Cremas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000122,"company":"Artesana","title":"Hamburguesa Especial","price":18,"description":"Queso+tocino con papas fritas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000123,"company":"Artesana","title":"Hamburguesa a la Artesana","price":18,"description":"Huevo+Queso+Tocino+cabanossi+Papas fritas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+
+{"id":300000000124,"company":"Artesana","title":"Alitas y Muslitos a la BBQ","price":22,"description":"Envueltas en salsa BBQ acompañada de papas nativas fritas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000125,"company":"Artesana","title":"Alitas y Muslitos Bufalo","price":22,"description":"Envueltas en salsa de Rocoto Acompañadas de papas nativas fritas","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000126,"company":"Artesana","title":"Alitas y Muslitos Acevichadas","price":22,"description":"Envueltas en salsa Acevichada","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000127,"company":"Artesana","title":"Alitas y Muslitos a La Maracuya","price":22,"description":"Envueltas en salsa de Maracuya","category":"Fast Food","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}},
+
+{"id":300000000128,"company":"Artesana","title":"Alitas y Muslitos a La Artesana","price":30,"description":"","category":"Envueltas en salsa de Casa+ papas fritas nativas","image":"https://brixcorp.github.io/tt.jpg","rating":{"rate":3,"count":7}}
+
+
+]
