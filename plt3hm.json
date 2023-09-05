@@ -1,9 +1,10 @@
-[ {"id":400000000100,"title":"Hamburguer","abbr":"burguerhyo","company":"Súper Burger Huancayo","price":27,"description":"Jirón Ayacucho 693","category":"Fast Food","image":"https://brixcorp.github.io/spb.jpg","rating":{"rate":4,"count":10}},
-  
+[
+  {"id":400000000100,"title":"Hamburguer","abbr":"burguerhyo","company":"Súper Burger Huancayo","price":27,"description":"Jirón Ayacucho 693","category":"Fast Food","image":"https://brixcorp.github.io/spb.jpg","rating":{"rate":4,"count":10}},
+
+  {"id":200000000100,"title":"Hamburguer","abbr":"artesana","company":"La Artesana Pizzas & Pastas","price":25,"description":"J. Coronel Santivañez 959","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
+
   {"id":400000000200,"title":"Hamburguer","abbr":"ffelg","company":"Fast Food El Gordito","price":25,"description":"Av. Ferrocarril 398","category":"Fast Food","image":"https://brixcorp.github.io/grd.jpg","rating":{"rate":3,"count":7}},
   
   {"id":400000000300,"title":"Hamburguer","abbr":"txchicken","company":"American Texas Chicken","price":35,"description":"Calle Real 987","category":"Fast Food","image":"https://brixcorp.github.io/texhm.jpg","rating":{"rate":3,"count":7}}
 
-  
-  
 ]
