@@ -1,31 +1,25 @@
 [ 
 
-{"id":300000000300,"company":"Don Pietro","title":"Don Pietro","price":58,"description":"Salsa andina, chicharron de prensa, alcachofa","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000300,"company":"Don Pietro","title":"Pizza Don Pietro","price":58,"description":"Salsa andina, chicharron de prensa, alcachofa","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000301,"company":"Don Pietro","title":"Americana","price":40,"description":"Jamon","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000301,"company":"Don Pietro","title":"Pizza Americana","price":40,"description":"Jamon","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000302,"company":"Don Pietro","title":"Tocino","price":55,"description":"Queso+peperoni+aceituna+pimiento","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000302,"company":"Don Pietro","title":"Pizza Tocino","price":55,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000303,"company":"Don Pietro","title":"Chorizo","price":50,"description":"Queso+peperoni+aceituna+pimiento","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000303,"company":"Don Pietro","title":"Pizza Chorizo","price":50,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
+{"id":300000000304,"company":"Don Pietro","title":"Pizza Margarita","price":18,"description":"Tomate + albahaca crocante","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000304,"company":"Don Pietro","title":"Margarita","price":18,"description":"Tomate + albahaca crocante","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
-
-{"id":300000000305,"company":"Don Pietro","title":"Genovesa","price":34,"description":"Aceituna+ albahaca crocante","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
-
-
-{"id":300000000306,"company":"Don Pietro","title":"Lasagna Bolognesa","price":37,"description":"Queso+carne de res+tocino ahumado+cebolla blanca","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000305,"company":"Don Pietro","title":"Pizza Genovesa","price":34,"description":"Aceituna+ albahaca crocante","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
 
-{"id":300000000307,"company":"Don Pietro","title":"Pizza Vegetariana Mediana","price":18,"description":"Queso+champignones+esparragos+aceituna","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000306,"company":"Don Pietro","title":"Lasagna Bolognesa","price":37,"description":"Salsa de carne + pasta artesanal","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000308,"company":"Don Pietro","title":"Pizza Vegetariana Familiar","price":34,"description":"Queso+champignones+esparragos+aceituna","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000309,"company":"Don Pietro","title":"Pan al Ajo","price":10,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000307,"company":"Don Pietro","title":"Pan al Ajo","price":10,"description":"Tostadas con mantequilla de ajo","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000310,"company":"Don Pietro","title":"Pan al ajo especial","price":15,"description":"Salsa pomodoro + Queso mozzarella","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}}
+{"id":300000000308,"company":"Don Pietro","title":"Pan al ajo especial","price":15,"description":"Salsa pomodoro + Queso mozzarella","category":"Fast Food","image":"https://brixcorp.github.io/dpt.jpg","rating":{"rate":3,"count":7}}
 
 
 
 ]
-
