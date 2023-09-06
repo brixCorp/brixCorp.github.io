@@ -32,12 +32,11 @@
 
 {"id":300000000114,"company":"Artesana","title":"Pizza Vegetariana Familiar","price":42,"description":"Cebolla+ aceitunas+pimiento+champignones","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
-
 {"id":300000000115,"company":"Artesana","title":"Lasagna a la Bolognesa","price":20,"description":"salsa de carne+salsa de la casa con bechamel","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000116,"company":"Artesana","title":"Raviole en salsa Huancaina con Lomo Saltado","price":30,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000116,"company":"Artesana","title":"Raviole en salsa Huancaina con Lomo Saltado","price":30,"description":"Pasta rellena","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000117,"company":"Artesana","title":"Calzone especial de Lomo Saltado","price":35,"description":"","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
+{"id":300000000117,"company":"Artesana","title":"Calzone especial de Lomo Saltado","price":35,"description":"Maza de Pizza rellena de Lomo Saltado","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
 {"id":300000000118,"company":"Artesana","title":"Salchipapas Clasica","price":15,"description":"Papa nativa fritas + Cremas","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
@@ -59,7 +58,7 @@
 
 {"id":300000000127,"company":"Artesana","title":"Alitas y Muslitos a La Maracuya","price":22,"description":"Envueltas en salsa de Maracuya","category":"Fast Food","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}},
 
-{"id":300000000128,"company":"Artesana","title":"Alitas y Muslitos a La Artesana","price":30,"description":"","category":"Envueltas en salsa de Casa+ papas fritas nativas","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}}
+{"id":300000000128,"company":"Artesana","title":"Alitas y Muslitos a La Artesana","price":30,"description":"Envueltas en salsa de la Casa","category":"Envueltas en salsa de Casa+ papas fritas nativas","image":"https://brixcorp.github.io/lart.jpg","rating":{"rate":3,"count":7}}
 
 
 ]
