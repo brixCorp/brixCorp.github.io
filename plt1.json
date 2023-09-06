@@ -9,9 +9,9 @@
 
   {"id":100000000200,"company":"El Meson","title":"1/4 Pollo a la Brasa","price":18.50,"description":"Pollo a la brasa+ papas fritas ","category":"Peruvian Food","image":"https://brixcorp.github.io/mesunc.jpg","rating":{"rate":4,"count":10}},
 
-  {"id":500000000100,"company":"Sassoku Sushi - Fusión","title":"Acevichado Roll 10 Piezas","price":24,"description":"","category":"Japanese Food","image":"https://brixcorp.github.io/sus.jpg","rating":{"rate":4,"count":10}},
+  {"id":500000000100,"company":"Sassoku Sushi - Fusión","title":"Acevichado - Roll 10 Piezas","price":24,"description":"Roll acevichado","category":"Japanese Food","image":"https://brixcorp.github.io/sus.jpg","rating":{"rate":4,"count":10}},
 
-  {"id":800000000100,"company":"Chifa Mr. Wu","title":"Chaufa","price":20,"description":"","category":"Fussion Food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":4,"count":10}},
+  {"id":800000000100,"company":"Chifa Mr. Wu","title":"Chaufa","price":20,"description":"Arroz frito+pollo+verduras","category":"Fussion Food","image":"https://brixcorp.github.io/ch.jpg","rating":{"rate":4,"count":10}},
 
 
 
