@@ -1,16 +1,16 @@
-[ {"id":910000000100,"company":"Coca Cola","title":"Coca Cola 1L","price":4,"description":"1 L","category":"Soda","image":"https://brixcorp.github.io/co1.jpg","rating":{"rate":4,"count":10}},
+[ {"id":910000000100,"company":"Or","title":"Coca Cola 1L","price":4,"description":"1 L","category":"Soda","image":"https://brixcorp.github.io/co1.jpg","rating":{"rate":4,"count":10}},
   
-  {"id":910000000101,"company":"Inca Cola","title":"Inca Cola 1L","price":4,"description":"1 L","category":"Soda","image":"https://brixcorp.github.io/ink1.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000101,"company":"Or","title":"Inca Cola 1L","price":4,"description":"1 L","category":"Soda","image":"https://brixcorp.github.io/ink1.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":910000000102,"company":"Coca Cola","title":"Coca Cola personal","price":2.7,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/cop.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000102,"company":"Or","title":"Coca Cola personal","price":2.7,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/cop.jpg","rating":{"rate":3,"count":7}},
   
-  {"id":910000000102,"company":"Inca Cola","title":"Inca Cola personal","price":2.7,"description":"600 ml","category":"Soda","image":"https://brixcorp.github.io/inkp.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000102,"company":"Or","title":"Inca Cola personal","price":2.7,"description":"600 ml","category":"Soda","image":"https://brixcorp.github.io/inkp.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":910000000103,"company":"Fanta","title":"Fanta personal","price":2.5,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/ftp.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000103,"company":"Or","title":"Fanta personal","price":2.5,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/ftp.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":910000000104,"company":"Sprite","title":"Sprite personal","price":2.5,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/sprp.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000104,"company":"Or","title":"Sprite personal","price":2.5,"description":"500 ml","category":"Soda","image":"https://brixcorp.github.io/sprp.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":910000000105,"company":"Coca Cola","title":"Coca Cola 2L","price":9,"description":"2 L","category":"Soda","image":"https://brixcorp.github.io/co2.jpg","rating":{"rate":3,"count":7}},
+  {"id":910000000105,"company":"Or","title":"Coca Cola 2L","price":9,"description":"2 L","category":"Soda","image":"https://brixcorp.github.io/co2.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":910000000106,"company":"Inca Cola","title":"Inca Cola 2.5 L","price":9,"description":"2.5 L","category":"Soda","image":"https://brixcorp.github.io/ink25.jpg","rating":{"rate":3,"count":7}}
+  {"id":910000000106,"company":"Or","title":"Inca Cola 2.5 L","price":9,"description":"2.5 L","category":"Soda","image":"https://brixcorp.github.io/ink25.jpg","rating":{"rate":3,"count":7}}
 ]
