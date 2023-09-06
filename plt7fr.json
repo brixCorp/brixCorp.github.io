@@ -1,0 +1,5 @@
+[ 
+  {"id":700000000100,"company":"French Fries Taste","title":"Porcion de salchipapa pequeña","price":6,"description":"Salchicha+ papas fritas + cremas","category":"Peruvian Food","image":"https://brixcorp.github.io/mdcp.jpg","rating":{"rate":4,"count":10}},
+  {"id":700000000101,"company":"French Fries Taste","title":"Porcion de salchipapa grande","price":10,"description":"Salchicha+ papas fritas + cremas","category":"Peruvian food","image":"https://brixcorp.github.io/mdpe.jpg","rating":{"rate":4,"count":7}},
+  {"id":700000000102,"company":"French Fries Taste","title":"Broaster Clasico","price":11,"description":"Papas fritas + Broaster+ Cremas","category":"Peruvian food","image":"https://brixcorp.github.io/img/mdpf.jpg","rating":{"rate":4,"count":7}}
+]
