@@ -1,15 +1,13 @@
-[ {"id":1010000000100,"company":"Cusqueña","title":"Cusqueña Negra Retornable","price":9,"description":"620 ml","category":"Drinks","image":"https://brixcorp.github.io/cz.jpg","rating":{"rate":4,"count":10}},
+[ {"id":1010000000100,"company":"Or","title":"Cusqueña Negra Retornable","price":9,"description":"620 ml","category":"Drinks","image":"https://brixcorp.github.io/cz.jpg","rating":{"rate":4,"count":10}},
   
-  {"id":1010000000101,"company":"Ron Cartavio","title":"Ron Cartavio Black","price":27,"description":"1 L","category":"Drinks","image":"https://brixcorp.github.io/rcb.jpg","rating":{"rate":3,"count":7}},
+  {"id":1010000000101,"company":"Or","title":"Ron Cartavio Black","price":27,"description":"1 L","category":"Drinks","image":"https://brixcorp.github.io/rcb.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":1010000000102,"company":"Whisky","title":"Whisky Johnnie Walker Red Label","price":63,"description":"700 ml","category":"Drinks","image":"https://brixcorp.github.io/jwr.jpg","rating":{"rate":3,"count":7}},
+  {"id":1010000000102,"company":"Or","title":"Whisky Johnnie Walker Red Label","price":63,"description":"700 ml","category":"Drinks","image":"https://brixcorp.github.io/jwr.jpg","rating":{"rate":3,"count":7}},
   
-  {"id":1010000000102,"company":"Corona","title":"Corona Six Pack","price":30,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/ccrs.jpg","rating":{"rate":3,"count":7}},
+  {"id":1010000000102,"company":"Or","title":"Corona Six Pack","price":30,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/ccrs.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":1010000000103,"company":"Vodka","title":"Vodka Russskaya","price":23,"description":"750 ml","category":"Drinks","image":"https://brixcorp.github.io/ruk.jpg","rating":{"rate":3,"count":7}},
+  {"id":1010000000103,"company":"Or","title":"Vodka Russskaya","price":23,"description":"750 ml","category":"Drinks","image":"https://brixcorp.github.io/ruk.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":1010000000104,"company":"Cristal","title":"Cristal Six Pack","price":17,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/crs.jpg","rating":{"rate":3,"count":7}},
+  {"id":1010000000104,"company":"Or","title":"Cristal Six Pack","price":17,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/crs.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":1010000000105,"company":"Pilsen","title":"Pilsen Six Pack","price":25,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/pls.jpg","rating":{"rate":3,"count":7}}
-
-]
+  {"id":1010000000105,"company":"Or","title":"Pilsen Six Pack","price":25,"description":"355 ml per unit","category":"Drinks","image":"https://brixcorp.github.io/pls.jpg","rating":{"rate":3,"count":7}}
