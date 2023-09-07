@@ -1,7 +1,7 @@
 [ 
     
   
-  {"id":700000000100,"title":"Salchipapas","abbr":"frentaste","company":"French Fries Taste","price":25,"description":"-","category":"Fast Food","image":"https://brixcorp.github.io/slc.jpg","rating":{"rate":4,"count":7}}
-  
+  {"id":700000000200,"title":"Salchipapas","abbr":"frentaste","company":"French Fries Taste","price":25,"description":"-","category":"Fast Food","image":"https://brixcorp.github.io/slc.jpg","rating":{"rate":4,"count":7}},
+  {"id":400000000100,"title":"Hamburguer","abbr":"burguerhyo","company":"Súper Burger Huancayo","price":27,"description":"Jirón Ayacucho 693","category":"Fast Food","image":"https://brixcorp.github.io/spb.jpg","rating":{"rate":4,"count":10}}
+
 ]
-  
