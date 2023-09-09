@@ -1,0 +1,44 @@
+[ 
+
+{"id":500000000101,"company":"Sassoku Sushi - Fusión","title":"GYOZAS De Cerdo (6 UND)","price":16,"description":"Empanadillas japonesas rellenas de cerdo+acompañadas de salsa agria.","category":"Japanese Food","image":"https://brixcorp.github.io/sas.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000102,"company":"Sassoku Sushi - Fusión","title":"GYOZAS De Pollo (6 UND)","price":16,"description":"Empanadillas japonesas rellenas de pollo+acompañadas de salsa agria.","category":"Japanese Food","image":"https://brixcorp.github.io/sas.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000103,"company":"Sassoku Sushi - Fusión","title":"Ebi Furai (6 UND)","price":16,"description":"Langostinos fritos al panko","category":"Japanese Food","image":"https://brixcorp.github.io/sas.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000104,"company":"Sassoku Sushi - Fusión","title":"Nigiri De Atun (3 UND)","price":14,"description":"Arroz moldeado + adicionales (Atun)","category":"Japanese Food","image":"https://brixcorp.github.io/meng.jpg","rating":{"rate":3,"count":7}},
+ 
+{"id":500000000105,"company":"Sassoku Sushi - Fusión","title":"Nigiri De Trucha (3 UND)","price":14,"description":"Arroz moldeado + adicionales (Trucha)","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000106,"company":"Sassoku Sushi - Fusión","title":"Nigiri De Langostino (3 UND)","price":14,"description":"Arroz moldeado + adicionales (Langostino)","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000107,"company":"Sassoku Sushi - Fusión","title":"Andean Gunkan (3 UND)","price":15,"description":"Shari envuelto en nori con trozos de trucha","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000108,"company":"Sassoku Sushi - Fusión","title":"Gunkan De Atun (3 UND)","price":15,"description":"Shari envuelto en nori con trozos de atun","category":"Japanese Food","image":"https://brixcorp.github.io/mesfp.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000109,"company":"Sassoku Sushi - Fusión","title":"Kani Gunkan (3 UND)","price":16,"description":"Shari envuelto en nori con pulpa de cangrejo","category":"Japanese Food","image":"https://brixcorp.github.io/bistc.jpg","rating":{"rate":3,"count":7}},
+
+
+
+{"id":500000000110,"company":"Sassoku Sushi - Fusión","title":"Hosomakis de Atun (6 UND)","price":16,"description":"Rollo relleno de atun y envuelto en alga nori","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000111,"company":"Sassoku Sushi - Fusión","title":"Hosomakis de Trucha (6 UND)","price":16,"description":"Rollo relleno de trucha y envuelto en alga nori","category":"Japanese Food","image":"https://brixcorp.github.io/mespa.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000112,"company":"Sassoku Sushi - Fusión","title":"Kiuri (pepino japones) 6 UND","price":16,"description":"Rollo relleno de kiuri y envuelto en alga nori","category":"Japanese Food","image":"https://brixcorp.github.io/mespzz.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000113,"company":"Sassoku Sushi - Fusión","title":"Hosomakis Ebi (6 UND)","price":16,"description":"Rollo relleno de langostino y envuelto en alga nori","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000114,"company":"Sassoku Sushi - Fusión","title":"Maki Acevichado","price":25,"description":"Langostinos+palta+trucha salmoneada","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000115,"company":"Sassoku Sushi - Fusión","title":"Maki Imperial","price":25,"description":"Langostino+queso+palta+cubiertos con laminas de trucha salmonad","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000116,"company":"Sassoku Sushi - Fusión","title":"Maki California","price":25,"description":"Langostino+queso+palta+cubiertos de ajonjoli negro","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000117,"company":"Sassoku Sushi - Fusión","title":"Maki Tartar De Trucha","price":25,"description":"Pescado furai+palta+cubiertos de tartar de trucha","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000118,"company":"Sassoku Sushi - Fusión","title":"Maki Inca Maki","price":25,"description":"Trucha+palta+cubiertos de ajonjoli negro y blanco","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000119,"company":"Sassoku Sushi - Fusión","title":"Maki Extravagaza","price":25,"description":"Pescado+cubiertos con trucha salmoneada flameada+ mantequilla de ajo","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000120,"company":"Sassoku Sushi - Fusión","title":"Maki Selvatico","price":25,"description":"Langostinos+cubiertos con platano frito+aji de cocona","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000121,"company":"Sassoku Sushi - Fusión","title":"Maki Parrillero","price":25,"description":"Langostino+cubiertos con laminas de lomo y chimichurri","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+
+{"id":500000000122,"company":"Sassoku Sushi - Fusión","title":"Makis Deluxe Sassoku Roll","price":28,"description":"Rellenos de langostino+nori+tartar de trucha","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000123,"company":"Sassoku Sushi - Fusión","title":"Makis Deluxe Lomo Saltado","price":28,"description":"Relleno de Lomo tempura+ cubiertos con trozos de lomo saltado","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000124,"company":"Sassoku Sushi - Fusión","title":"Makis Deluxe Vamos Peru","price":28,"description":"Pescado+bañados en salsa tiradito de rocoto+leche de tigre","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000125,"company":"Sassoku Sushi - Fusión","title":"Makis Deluxe Pulpo Parrillero","price":28,"description":"Langsotinos+cubiertos con pulpo en salsa parrillera","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}},
+{"id":500000000126,"company":"Sassoku Sushi - Fusión","title":"Makis Deluxe Seiji","price":28,"description":"Langostinos+gotas de tare+piel de trucha crocante","category":"Japanese Food","image":"https://brixcorp.github.io/mesn.jpg","rating":{"rate":3,"count":7}}
+
+
+
+]
