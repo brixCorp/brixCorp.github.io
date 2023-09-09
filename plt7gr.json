@@ -1,0 +1,41 @@
+[ 
+
+{"id":400000000200,"company":"Fast Food El Gordito","title":"Sandwich De Pollo","price":15,"description":"Pollo deshilachado + papas nativas + tomate","category":"Fast Food","image":"https://brixcorp.github.io/gsw.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000201,"company":"Fast Food El Gordito","title":"Hamburguesa Gordiburguer","price":26,"description":"Doble carne de res+ queso +papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/ghg.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000202,"company":"Fast Food El Gordito","title":"Hamburguesa Parrillera","price":20,"description":"Carne de res+ chorizo (huaychulo)+ papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/ghp.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000203,"company":"Fast Food El Gordito","title":"Hamburguesa Hawaina","price":18,"description":"Carne de res+ 2 rodajas de Piña+ papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/ghw.jpg","rating":{"rate":3,"count":7}},
+ 
+{"id":400000000204,"company":"Fast Food El Gordito","title":"Hamburguesa Royal","price":17,"description":"Carne de res+ queso + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/ghr.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000205,"company":"Fast Food El Gordito","title":"Hamburguesa Clasica","price":15,"description":"Carne de res+ queso + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/ghc.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000206,"company":"Fast Food El Gordito","title":"Hamburguesa Bacon","price":19,"description":"Carne de res+ tocino+ queso+ papas nativas.","category":"Fast Food","image":"https://brixcorp.github.io/ght.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000207,"company":"Fast Food El Gordito","title":"Salchipapa Gordipapas","price":19,"description":"Papas nativas+pollo deshilachado+ chorizo artesanal+ salchichas artesanales","category":"Fast Food","image":"https://brixcorp.github.io/gsg.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000208,"company":"Fast Food El Gordito","title":"Salchipapa Chanchipapas","price":22,"description":"Papas nativas+ trozos de cerdo + salchichas artesanales","category":"Fast Food","image":"https://brixcorp.github.io/gschc.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000209,"company":"Fast Food El Gordito","title":"Salchipapa Choripapa","price":14,"description":"Papas nativas+chorizo artesanal+salchichas artesanales","category":"Fast Food","image":"https://brixcorp.github.io/gsch.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000210,"company":"Fast Food El Gordito","title":"Salchipapa Clasica","price":12,"description":"Papas nativas+ salchichas artesanales (Huaychulo)","category":"Fast Food","image":"https://brixcorp.github.io/gsc.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000211,"company":"Fast Food El Gordito","title":"Salchipapa Pollipapa","price":16,"description":"Papas nativas+pollo deshilachado+salchichas artesanales","category":"Fast Food","image":"https://brixcorp.github.io/gsp.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000212,"company":"Fast Food El Gordito","title":"Salchipapa Montada","price":15,"description":"Papas nativas+huevo +salchichas artesanales (Huaychulo)","category":"Fast Food","image":"https://brixcorp.github.io/gsm.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000213,"company":"Fast Food El Gordito","title":"Gordibroaster","price":26,"description":"2 piezas de pollo crispy + chorizo artesanal + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gbg.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000214,"company":"Fast Food El Gordito","title":"1/4 de Pollo Broaster","price":23,"description":"2 piezas de pollo crispy + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gbm.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000215,"company":"Fast Food El Gordito","title":"Salchialitas","price":22,"description":"4 piezas de alitas crispy+ salchichas artesanales + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gbsl.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000216,"company":"Fast Food El Gordito","title":"6 alitas Broaster","price":21,"description":"6 piezas de alitas crispy + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gbs.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000217,"company":"Fast Food El Gordito","title":"4 alitas Broaster","price":17,"description":"4 piezas de alitas crispy + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gbc.jpg","rating":{"rate":3,"count":7}},
+
+{"id":400000000218,"company":"Fast Food El Gordito","title":"Chanchicono","price":24,"description":"Trozos de cerdo + papas nativas+ salchicha artesanal","category":"Fast Food","image":"https://brixcorp.github.io/gcc.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000219,"company":"Fast Food El Gordito","title":"Conialitas BBQ Picante","price":22,"description":"4 piezas de alitas bbq picante + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gcch.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000220,"company":"Fast Food El Gordito","title":"Conialitas BBQ","price":22,"description":"4 piezas de alitas bbq + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gccb.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000221,"company":"Fast Food El Gordito","title":"Conialitas","price":21,"description":"4 piezas de alitas crispy + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gccn.jpg","rating":{"rate":3,"count":7}},
+{"id":400000000222,"company":"Fast Food El Gordito","title":"Salchicono","price":18,"description":"Salchicha artesanal + papas nativas","category":"Fast Food","image":"https://brixcorp.github.io/gcs.jpg","rating":{"rate":3,"count":7}}
+
+
+]
