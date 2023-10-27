@@ -11,7 +11,7 @@
   {"id":3200000000100,"company":"Gloria","title":"Six Pack Leche Gloria (Azul)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo1a.jpg","rating":{"rate":4,"count":10}},
 
 
-  {"id":4100000000300,"company":"Gloria","title":"Six Pack Leche Gloria (Roja)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glov2r.jpg","rating":{"rate":4,"count":10}},
+  {"id":4100000000300,"company":"Gloria","title":"Six Pack Leche Gloria (Roja)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo2r.jpg","rating":{"rate":4,"count":10}},
 
   {"id":5100000000100,"company":"Huggies","title":"Natural Care Pañal XXG","price":59,"description":"Talla XXG, 58 unidades","category":"Babie Care","image":"https://brixcorp.github.io/hug5.jpg","rating":{"rate":3,"count":7}},
 
