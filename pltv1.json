@@ -1,0 +1,24 @@
+  [
+
+  {"id":1000000000100,"company":"Primor","title":"Aceite Vegetal Primor","price":10,"description":"900 ml","category":"Oil","image":"https://brixcorp.github.io/prim9.jpg","rating":{"rate":4,"count":10}},
+
+  {"id":1100000000100,"company":"Cocinero","title":"Aceite Vegetal Cocinero","price":9,"description":"900 ml","category":"Oil","image":"https://brixcorp.github.io/coci9.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":2100000000100,"company":"Vittorio","title":"Fideos Linguini Grosso Don Vittorio","price":4,"description":"450 gr","category":"Pasta","image":"https://brixcorp.github.io/dvi45.jpg","rating":{"rate":4,"count":10}},
+
+  {"id":2200000000100,"company":"Lavaggi","title":"Fideos Tallarín Lavaggi","price":3,"description":"450 gr","category":"Pasta","image":"https://brixcorp.github.io/lv45.jpg","rating":{"rate":4,"count":10}},
+
+  {"id":3200000000100,"company":"Gloria","title":"Six Pack Leche Gloria (Azul)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo1a.jpg","rating":{"rate":4,"count":10}},
+
+
+  {"id":4100000000300,"company":"Gloria","title":"Six Pack Leche Gloria (Roja)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glov2r.jpg","rating":{"rate":4,"count":10}},
+
+  {"id":5100000000100,"company":"Huggies","title":"Natural Care Pañal XXG","price":59,"description":"Talla XXG, 58 unidades","category":"Babie Care","image":"https://brixcorp.github.io/hug5.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":6100000000101,"company":"Head & Shoulders","title":"Shampoo Control Caspa","price":30,"description":"850 ml","category":"Personal Care","image":"https://brixcorp.github.io/shh8.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":7100000000101,"company":"Ariel","title":"Detergente en Polvo Ariel Perlas Limpiadoras","price":45,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ac4k.jpg","rating":{"rate":3,"count":7}},
+
+  {"id":7100000000101,"company":"Ace","title":"Detergente en Polvo Ace Regular","price":30,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ar4k.jpg","rating":{"rate":3,"count":7}}
+  
+]
