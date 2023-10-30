@@ -1,0 +1,11 @@
+  [
+
+    {"id":3100000000100,"company":"Gloria","title":"Six Pack Leche Gloria (Azul)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo1a.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":3100000000101,"company":"Gloria","title":"Six Pack Leche Gloria (Roja)","price":20,"description":"395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo2r.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":3100000000102,"company":"Gloria","title":"Six Pack Gloria Sin Lactosa","price":22,"description":"Leche 395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo3r.jpg","rating":{"rate":4,"count":10}},
+  
+    {"id":3100000000103,"company":"Gloria","title":"Six Pack Gloria Niños","price":20.5,"description":" Leche 395 g por lata","category":"Milk","image":"https://brixcorp.github.io/glo4r.jpg","rating":{"rate":4,"count":10}}
+
+]
