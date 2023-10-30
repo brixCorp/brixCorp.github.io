@@ -17,8 +17,8 @@
 
   {"id":6100000000101,"company":"Head & Shoulders","title":"Shampoo Control Caspa","price":30,"description":"850 ml","category":"Personal Care","image":"https://brixcorp.github.io/shh8.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":7100000000101,"company":"Ariel","title":"Detergente en Polvo Ariel Perlas Limpiadoras","price":45,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ac4k.jpg","rating":{"rate":3,"count":7}},
+  {"id":7100000000101,"company":"Ariel","title":"Detergente en Polvo Ariel Perlas Limpiadoras","price":45,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ar4k.jpg","rating":{"rate":3,"count":7}},
 
-  {"id":7100000000101,"company":"Ace","title":"Detergente en Polvo Ace Regular","price":30,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ar4k.jpg","rating":{"rate":3,"count":7}}
+  {"id":7200000000101,"company":"Ace","title":"Detergente en Polvo Ace Regular","price":30,"description":"4 Kg","category":"Desinfectant","image":"https://brixcorp.github.io/ac4k.jpg","rating":{"rate":3,"count":7}}
   
 ]
