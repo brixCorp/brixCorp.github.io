@@ -1,0 +1,11 @@
+  [
+
+    {"id":4000000000100,"company":"Tres Ositos","title":"Avena Clásica Tres Ositos","price":11,"description":"900 g","category":"Oat","image":"https://brixcorp.github.io/os9.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":4000000000101,"company":"Tres Ositos","title":"Avena Quinua Tres Ositos","price":5.30,"description":"270 g","category":"Oat","image":"https://brixcorp.github.io/os2.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":4000000000102,"company":"Tres Ositos","title":"Avena Maca Tres Ositos","price":5.30,"description":"270 g","category":"Oat","image":"https://brixcorp.github.io/os3.jpg","rating":{"rate":4,"count":10}},
+  
+    {"id":4100000000101,"company":"Quaker","title":"Avena Quaker Tradicional","price":5.5,"description":"500 g","category":"Oat","image":"https://brixcorp.github.io/quak5.jpg","rating":{"rate":4,"count":10}}
+
+]
