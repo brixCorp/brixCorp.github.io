@@ -1,0 +1,20 @@
+  [
+
+    {"id":5000000000100,"company":"Field","title":"Galleta Field Vainilla","price":3.5,"description":"6 unidades",
+    "category":"Cookies","image":"https://brixcorp.github.io/cof1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":5100000000100,"company":"Morochas","title":"Galletas sabor Chocolate","price":4,"description":"6 unidades",
+    "category":"Cookies","image":"https://brixcorp.github.io/mor1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":5200000000100,"company":"Tentacion","title":"Galletas sabor Chocolate","price":4.5,"description":"6 unidades",
+    "category":"Cookies","image":"https://brixcorp.github.io/tent1.jpg","rating":{"rate":4,"count":10}},
+  
+    {"id":5200000000101,"company":"Frac","title":"Galletas sabor Chocolate clasico","price":4,"description":"6 unidades",
+    "category":"Cookies","image":"https://brixcorp.github.io/frc1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":5200000000101,"company":"Oreo","title":"Galleta Oreo Twelve","price":7.5,"description":"12 unidades de 432 g each",
+    "category":"Cookies","image":"https://brixcorp.github.io/ore1.jpg","rating":{"rate":4,"count":10}}
+
+
+
+]
