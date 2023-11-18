@@ -1,0 +1,12 @@
+  [
+
+    {"id":8000000000100,"company":"Enfamil","title":"Enfamil Hierro 2 - Lata","price":84.5,"description":"800 g",
+    "category":"BabyFood","image":"https://brixcorp.github.io/enf1.jpg","rating":{"rate":4,"count":10}},
+
+  
+    {"id":8100000000100,"company":"NAN1","title":" NAN 1 Fórmula Láctea Infantil de Inicio Polvo - Lata","price":101,"description":"900 g",
+    "category":"BabyFood","image":"https://brixcorp.github.io/nan1.jpg","rating":{"rate":4,"count":10}}
+
+
+
+]
