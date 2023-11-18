@@ -1,0 +1,53 @@
+  [
+
+    {"id":7000000000100,"company":"Pampers","title":"Pañales Confort Sec Talla XXG","price":75.5,"description":"60 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/pamp1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7000000000101,"company":"Pampers","title":"Pañales Premium Care Recien Nacido","price":35,"description":"36 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/pamp2.jpg","rating":{"rate":4,"count":10}},
+    
+    {"id":7200000000103,"company":"Huggies","title":"Toallitas Humedas One & Done","price":32,"description":"3 Paquetes de 80 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug4.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7200000000104,"company":"Huggies","title":"Toallitas Húmedas One & Done","price":30,"description":"Paquete 184 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug6.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7000000000102,"company":"Pampers","title":"Pañales Premium Care Talla M","price":64,"description":"86 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/pamp3.jpg","rating":{"rate":4,"count":10}},
+  
+    {"id":7000000000103,"company":"Pampers","title":"Pañales Premium Care Pants XXG","price":65.9,"description":"52 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/pamp4.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7000000000104,"company":"Pampers","title":"Pañales Premium Care Talla XG Megapack","price":63.5,"description":"60 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/pamp5.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7100000000100,"company":"Babysec","title":"Pañales Premium XXG","price":54,"description":"72 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/bab1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7100000000101,"company":"Babysec","title":"Pañales Premium G","price":48,"description":"58 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/bab2.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7100000000102,"company":"Babysec","title":"Pañales Premium Talla P","price":36.5,"description":"62 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/bab3.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7100000000103,"company":"Babysec","title":"Pañales Premium Talla M","price":48,"description":"68 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/bab4.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7100000000104,"company":"Babysec","title":"Pañales Premium Talla XG" ,"price":54,"description":"72 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/bab5.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7200000000100,"company":"Huggies","title":"Pañales Natural C. Primeros 100 Dias","price":12,"description":"20 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug1.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7200000000101,"company":"Huggies","title":"Pañales Natural C. Pants Talla XXG","price":65,"description":"48 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug2.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7200000000102,"company":"Huggies","title":"Pañales Active Sec Big Pack XG","price":56,"description":"68 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug3.jpg","rating":{"rate":4,"count":10}},
+
+    {"id":7200000000104,"company":"Huggies","title":"Toallitas Húmedas One & Done","price":14,"description":"Paquete 80 unidades",
+    "category":"Diapers","image":"https://brixcorp.github.io/hug7.jpg","rating":{"rate":4,"count":10}}
+
+
+
+]
