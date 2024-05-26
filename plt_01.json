@@ -15,7 +15,11 @@
 
 
 
-  {"id":100000000300,"company":"Coca Cola","title":"Coca Cola logo","price":20,"description":"Porcion 1/4 pollo + papas fritas + ensalada","category":"Peruvian Food","image":"https://brixcorp.github.io/ccola.png","rating":{"rate":4,"count":10}}
+  {"id":100000000300,"company":"Coca Cola","title":"Coca Cola logo","price":20,"description":"Porcion 1/4 pollo + papas fritas + ensalada","category":"Peruvian Food","image":"https://brixcorp.github.io/ccola.png","rating":{"rate":4,"count":10}},
+
+    {"id":800000000100,"company":"San Mateo","title":"San Mateo logo","price":20,"description":"Arroz frito+pollo+verduras","category":"Fussion Food","image":"https://brixcorp.github.io/snmt.png","rating":{"rate":4,"count":10}},
   
+      {"id":800000000100,"company":"Malboro","title":"Malboro logo","price":20,"description":"Arroz frito+pollo+verduras","category":"Fussion Food","image":"https://brixcorp.github.io/malb.png","rating":{"rate":4,"count":10}}
+
   
 ]
