@@ -1,0 +1,21 @@
+[ 
+  
+
+
+
+  {"id":200000000200,"company":"Pilsen","title":"Pilsen logo","price":25,"description":"1/4 de Pollo","category":"Peruvian Food","image":"https://brixcorp.github.io/plsn.png","rating":{"rate":4,"count":10}},
+
+  {"id":300000000100,"company":"Cristal","title":"Cristal logo","price":22,"description":"Jamon + Queso + Salsa de tomate","category":"Fast Food","image":"https://brixcorp.github.io/crst.png","rating":{"rate":3,"count":7}},
+
+  {"id":100000000200,"company":"Cuzqueña","title":"Cuzqueña logo","price":18.50,"description":"Pollo a la","category":"Peruvian Food","image":"https://brixcorp.github.io/csq.png","rating":{"rate":4,"count":10}},
+
+  {"id":500000000100,"company":"Guarana","title":"Guarana logo","price":24,"description":"Roll acevichado","category":"Japanese Food","image":"https://brixcorp.github.io/gr.png","rating":{"rate":4,"count":10}},
+
+  {"id":800000000100,"company":"Inka Cola","title":"Inka Cola logo","price":20,"description":"Arroz frito+pollo+verduras","category":"Fussion Food","image":"https://brixcorp.github.io/incc.png","rating":{"rate":4,"count":10}},
+
+
+
+  {"id":100000000300,"company":"Coca Cola","title":"Coca Cola logo","price":20,"description":"Porcion 1/4 pollo + papas fritas + ensalada","category":"Peruvian Food","image":"https://brixcorp.github.io/ccola.png","rating":{"rate":4,"count":10}}
+  
+  
+]
