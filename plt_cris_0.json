@@ -1,7 +1,7 @@
 [ 
   
 
-  {"id":100000000100,"company":"Cristal","title":"Cristal 355 ml (12 uni)","price":39,"description":"12 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cris355_12.jpg","rating":{"rate":4,"count":10}},
+  {"id":100000000100,"company":"Cristal","title":"Cristal 355 ml (12 uni)","price":39,"description":"12 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cris355_12.png","rating":{"rate":4,"count":10}},
 
   {"id":100000000102,"company":"Cristal","title":"Cristal Lata 355 ml","price":22,"description":"6 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cris355.png","rating":{"rate":4,"count":10}},
 
