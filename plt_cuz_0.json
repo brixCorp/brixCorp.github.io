@@ -1,0 +1,13 @@
+[ 
+  
+
+  {"id":100000000100,"company":"Cuzqueña","title":"Cusqueña Dorada 310 ml","price":22,"description":"6 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cuz310dor.png","rating":{"rate":4,"count":10}},
+
+  {"id":100000000102,"company":"Cuzqueña","title":"Cusqueña Trigo 310 ml","price":22,"description":"6 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cuz310tri.png","rating":{"rate":4,"count":10}},
+
+  {"id":100000000102,"company":"Cuzqueña","title":"Cusqueña Negra 355 ml","price":28,"description":"6 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cuz355neg.png","rating":{"rate":4,"count":10}},
+
+  {"id":100000000102,"company":"Cuzqueña","title":"Cusqueña Negra 310 ml","price":22,"description":"6 unidades","category":"Drink Al","image":"https://brixcorp.github.io/cuz310.png","rating":{"rate":4,"count":10}}
+
+  
+]
